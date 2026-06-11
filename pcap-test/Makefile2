@@ -1,0 +1,14 @@
+CC = gcc
+CFLAGS = -Wall -Wextra -O2
+TARGET = pcap-test2
+SRCS = main2.c
+OBJS = $(SRCS:.c=.o)
+
+$(TARGET): $(OBJS)
+	$(CC) $(CFLAGS) -o $(TARGET) $(OBJS) -lpcap
+
+main2.o: main2.c hb_headers.h
+	$(CC) $(CFLAGS) -c main2.c
+
+clean:
+	rm -f $(OBJS) $(TARGET)

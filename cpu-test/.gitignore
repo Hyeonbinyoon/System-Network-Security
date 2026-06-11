@@ -1,0 +1,7 @@
+*.swp
+*.user
+.qmake.stash
+Makefile
+cpu-test
+*.o
+

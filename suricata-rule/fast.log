@@ -1,0 +1,40 @@
+06/10/2026-20:57:11.484860  [**] [1:100001:1] HTTP example.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:33590 -> 104.20.23.154:80
+06/10/2026-20:57:11.650165  [**] [1:110001:1] TLS SNI example.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:41076 -> 104.20.23.154:443
+06/10/2026-20:57:13.230506  [**] [1:100002:1] HTTP netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:35074 -> 44.242.13.161:80
+06/10/2026-20:57:13.542411  [**] [1:110002:1] TLS SNI netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:51852 -> 44.240.158.19:443
+06/10/2026-20:57:15.768856  [**] [1:100003:1] HTTP qt.io access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:50700 -> 52.18.144.254:80
+06/10/2026-20:57:16.574674  [**] [1:110003:1] TLS SNI qt.io access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:57106 -> 52.18.144.254:443
+06/10/2026-20:57:18.942367  [**] [1:100004:1] HTTP google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:58656 -> 142.250.105.102:80
+06/10/2026-20:57:19.573279  [**] [1:110004:1] TLS SNI google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:33062 -> 142.250.105.100:443
+06/10/2026-20:57:22.071642  [**] [1:100005:1] HTTP youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:54430 -> 108.177.122.190:80
+06/10/2026-20:57:23.363810  [**] [1:110005:1] TLS SNI youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:52558 -> 108.177.122.93:443
+06/10/2026-20:57:24.882291  [**] [1:100006:1] HTTP naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:59006 -> 223.130.200.236:80
+06/10/2026-20:57:24.922737  [**] [1:110006:1] TLS SNI naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:34250 -> 223.130.200.219:443
+06/10/2026-20:57:26.182408  [**] [1:100007:1] HTTP daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:59102 -> 121.53.105.193:80
+06/10/2026-20:57:26.329561  [**] [1:110007:1] TLS SNI daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:34914 -> 211.249.220.24:443
+06/10/2026-20:57:27.652399  [**] [1:100008:1] HTTP kakao.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:54426 -> 121.53.93.60:80
+06/10/2026-20:57:27.892271  [**] [1:110008:1] TLS SNI kakao.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:33280 -> 211.249.251.46:443
+06/10/2026-20:57:29.102120  [**] [1:100009:1] HTTP github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:47458 -> 20.200.245.247:80
+06/10/2026-20:57:29.304139  [**] [1:110009:1] TLS SNI github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:42280 -> 20.200.245.247:443
+06/10/2026-20:57:30.840196  [**] [1:100010:1] HTTP stackoverflow.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:35158 -> 198.252.206.1:80
+06/10/2026-20:57:31.287210  [**] [1:110010:1] TLS SNI stackoverflow.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:42574 -> 198.252.206.1:443
+06/10/2026-20:57:33.101429  [**] [1:100011:1] HTTP wikipedia.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:47400 -> 103.102.166.224:80
+06/10/2026-20:57:33.378126  [**] [1:110011:1] TLS SNI wikipedia.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:34822 -> 103.102.166.224:443
+06/10/2026-20:57:34.740325  [**] [1:100012:1] HTTP cloudflare.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:37448 -> 104.16.133.229:80
+06/10/2026-20:57:34.869516  [**] [1:110012:1] TLS SNI cloudflare.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:55196 -> 104.16.133.229:443
+06/10/2026-20:57:36.460498  [**] [1:100013:1] HTTP amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:36172 -> 98.87.170.71:80
+06/10/2026-20:57:37.014672  [**] [1:110013:1] TLS SNI amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:60526 -> 98.87.170.71:443
+06/10/2026-20:57:38.627391  [**] [1:100014:1] HTTP microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:39244 -> 150.171.110.129:80
+06/10/2026-20:57:38.873510  [**] [1:110014:1] TLS SNI microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:41508 -> 150.171.110.129:443
+06/10/2026-20:57:40.354737  [**] [1:100015:1] HTTP apple.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:56774 -> 17.253.144.10:80
+06/10/2026-20:57:40.528313  [**] [1:110015:1] TLS SNI apple.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:44272 -> 17.253.144.10:443
+06/10/2026-20:57:41.888684  [**] [1:100016:1] HTTP facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:49024 -> 157.240.31.35:80
+06/10/2026-20:57:42.065149  [**] [1:110016:1] TLS SNI facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:37250 -> 157.240.31.35:443
+06/10/2026-20:57:43.478742  [**] [1:100017:1] HTTP instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:49892 -> 157.240.31.174:80
+06/10/2026-20:57:43.591930  [**] [1:110017:1] TLS SNI instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:54758 -> 157.240.31.174:443
+06/10/2026-20:57:44.915042  [**] [1:100018:1] HTTP reddit.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:47764 -> 151.101.65.140:80
+06/10/2026-20:57:44.960740  [**] [1:110018:1] TLS SNI reddit.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:60094 -> 151.101.1.140:443
+06/10/2026-20:57:46.106192  [**] [1:100019:1] HTTP openai.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:57280 -> 172.64.154.211:80
+06/10/2026-20:57:46.188644  [**] [1:110019:1] TLS SNI openai.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:53462 -> 104.18.33.45:443
+06/10/2026-20:57:47.322869  [**] [1:100020:1] HTTP korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:49910 -> 163.152.6.10:80
+06/10/2026-20:57:47.406144  [**] [1:110020:1] TLS SNI korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.100.130:55612 -> 163.152.6.10:443
